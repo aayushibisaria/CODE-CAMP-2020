@@ -2,7 +2,7 @@
 type: "team"                   
 title: quadCore
 name: "quadCore"
-github-link: "https://github.com/ "
+github-link: "https://github.com/AnushkaSrivastava011/Aprende-Gratis"
 description: "We are team quadCore, a team of 4 members. We are trying to contribute to this pandemic situation using our skills and teamwork"
 Team-Quote: "Programming is'nt about what you know, it's about what you can figure out"
 Team_Tech_Stack: "javascript,css,html,ml"
